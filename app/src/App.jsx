@@ -6,13 +6,24 @@ const Page = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 95vh;
+    height: 100vh;
+	box-sizing:inherit;
+	background-color:#231940;
+`;
+
+const Header = styled.div`
+	background-color: #E03B5D;
+	color: #FFFFFF;
+	border-radius: 8px;
+	font-size: 32px;
+	font-family: 'Montserrat',sans-serif;
+	padding: 16px;
 `;
 
 function App() {
 	return (
 		<Page>
-			<h1>Bem vindo ao EnfaseLabs Academy!</h1>
+			<Header>Seja bem vindo ao EnfaseLabs Academy!</Header>
 		</Page>
 	)
 }
