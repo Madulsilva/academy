@@ -6,7 +6,6 @@
   "scripts": {
     "start": "webpack serve --mode development --hot",
     "build": "webpack --mode production",
-    "begin": "npm run build && npm run start",
     "lint": "eslint src/**/*.js src/**/*.jsx"
   },
   "author": "EnfaseLabs",
