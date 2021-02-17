@@ -21,10 +21,7 @@ const Header = styled.div`
 
 const App = () => (
   <Page>
-    <Header>
-      Seja bem vindo ao EnfaseLabs Academy! Seja bem vindo ao EnfaseLabs
-      Academy! Seja bem vindo ao EnfaseLabs Academy!
-    </Header>
+    <Header>Seja bem vindo ao EnfaseLabs Academy!</Header>
   </Page>
 );
 
