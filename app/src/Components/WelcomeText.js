@@ -10,6 +10,6 @@ const Title = styled.div`
   padding: 16px;
 `;
 
-const WelcomeText = () => <Title>Seja bem vindo ao EnfaseLabs Academy!</Title>;
+const WelcomeText = () => <Title>Seja bem-vindo(a) ao EnfaseLabs Academy!</Title>;
 
 export default WelcomeText;
