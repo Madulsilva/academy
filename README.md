@@ -27,6 +27,9 @@ cd academy/app
     yarn start
 ```
 
+### Exemplo
+Voce pode acessar a branch `app-example` para consultar o código de exemplo com uma forma de construir o front básico do projeto
+
 # Fontes
 
 [Tutorial de setup de projetos react sem o uso do comando create-react-app](https://medium.com/javascript-in-plain-english/to-beginners-moving-away-from-create-react-app-f597413181e)
