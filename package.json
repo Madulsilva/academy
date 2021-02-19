@@ -1,0 +1,26 @@
+{
+  "name": "enfase-labs-academy-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d build",
+    "start": "babel-watch src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EnfaseLabs",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-watch": "^7.0.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "body-parser": "^1.19.0",
+    "core-js": "^3.8.1",
+    "express": "^4.17.1",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
