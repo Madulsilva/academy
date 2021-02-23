@@ -1,5 +1,8 @@
 # EnfaseLab Academy
 
+## Atividades Pragmáticas
+[Mentoria - Atividades Programáticas Front-end](https://www.notion.so/Mentoria-Atividades-Program-ticas-Front-end-4eb13d8301a84f0da5c8d274f404ca9c)
+
 ## React App
 
 Esse repositório contém o código base para o início do projeto de criação de um aplicativo com o framework React.
