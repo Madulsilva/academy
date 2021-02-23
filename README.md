@@ -2,6 +2,7 @@
 
 ## Atividades Pragmáticas
 [Mentoria - Atividades Programáticas Front-end](https://www.notion.so/Mentoria-Atividades-Program-ticas-Front-end-4eb13d8301a84f0da5c8d274f404ca9c)
+
 [Materiais de estudos](https://www.notion.so/e17203f3f4074babafb1fe360646da23?v=dc99db45b8ae4020b2dbe64e4432812a)
 
 ## React App
